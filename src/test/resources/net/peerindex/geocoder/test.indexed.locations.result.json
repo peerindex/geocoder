@@ -1,0 +1,262 @@
+{"[SSR]": [
+    {
+        "geonameId": 3648209,
+        "featureCodeCategory": "ADM1",
+        "defaultName": "Super Region",
+        "featureCode": "ADM1",
+        "codes": {
+            "PCL": "GB",
+            "ADM4": "CC",
+            "ADM3": "BB",
+            "ADM2": "AA",
+            "ADM1": "SSR"
+        },
+        "names": ["Supermans", "SSR", "Super Region"],
+        "population": 500000,
+        "lat": 11.1,
+        "lng": -1.11
+    }
+], "[US]": [
+    {
+        "geonameId": 4648107,
+        "featureCodeCategory": "PCL",
+        "defaultName": "US",
+        "featureCode": "PCL",
+        "codes": {
+            "PCL": "US"
+        },
+        "names": ["United States", "US"],
+        "population": 100000000,
+        "lat": 56.7,
+        "lng": -5.678
+    }
+], "[SUPER, REGION]": [
+    {
+        "geonameId": 3648209,
+        "featureCodeCategory": "ADM1",
+        "defaultName": "Super Region",
+        "featureCode": "ADM1",
+        "codes": {
+            "PCL": "GB",
+            "ADM4": "CC",
+            "ADM3": "BB",
+            "ADM2": "AA",
+            "ADM1": "SSR"
+        },
+        "names": ["Supermans", "SSR", "Super Region"],
+        "population": 500000,
+        "lat": 11.1,
+        "lng": -1.11
+    }
+], "[GB]": [
+    {
+        "geonameId": 1648107,
+        "featureCodeCategory": "PCL",
+        "defaultName": "UK",
+        "featureCode": "PCL",
+        "codes": {
+            "PCL": "GB"
+        },
+        "names": ["GB", "UK", "United Kingdom"],
+        "population": 100000000,
+        "lat": 123.4,
+        "lng": -1.234
+    }
+], "[YY, LAND]": [
+    {
+        "geonameId": 6648110,
+        "featureCodeCategory": "PCL",
+        "defaultName": "YY",
+        "featureCode": "PCL",
+        "codes": {
+            "PCL": "YY"
+        },
+        "names": ["YY", "YY Land"],
+        "population": 10000000,
+        "lat": 99.9,
+        "lng": -9.999
+    }
+], "[NY]": [
+    {
+        "geonameId": 5648109,
+        "featureCodeCategory": "SUBADM",
+        "defaultName": "New York",
+        "featureCode": "PPL",
+        "codes": {
+            "PCL": "GB",
+            "ADM1": "ENG"
+        },
+        "names": ["New York", "NY"],
+        "population": 500000,
+        "lat": 11.1,
+        "lng": -1.11
+    }
+], "[UK]": [
+    {
+        "geonameId": 1648107,
+        "featureCodeCategory": "PCL",
+        "defaultName": "UK",
+        "featureCode": "PCL",
+        "codes": {
+            "PCL": "GB"
+        },
+        "names": ["GB", "UK", "United Kingdom"],
+        "population": 100000000,
+        "lat": 123.4,
+        "lng": -1.234
+    }
+], "[NEW, YORK]": [
+    {
+        "geonameId": 5648109,
+        "featureCodeCategory": "SUBADM",
+        "defaultName": "New York",
+        "featureCode": "PPL",
+        "codes": {
+            "PCL": "GB",
+            "ADM1": "ENG"
+        },
+        "names": ["New York", "NY"],
+        "population": 500000,
+
+        "lat": 11.1,
+        "lng": -1.11
+    }
+], "[TINY]": [
+    {
+        "geonameId": 7648110,
+        "featureCodeCategory": "SUBADM",
+        "defaultName": "Tiny Town",
+        "featureCode": "PPLA",
+        "codes": {
+            "PCL": "YY"
+        },
+        "names": ["Tiny", "Tiny Town", "Tiniest"],
+        "population": 1000,
+
+        "lat": 99.9,
+        "lng": -9.999
+    }
+], "[UNITED, KINGDOM]": [
+    {
+        "geonameId": 1648107,
+        "featureCodeCategory": "PCL",
+        "defaultName": "UK",
+        "featureCode": "PCL",
+        "codes": {
+            "PCL": "GB"
+        },
+        "names": ["GB", "UK", "United Kingdom"],
+        "population": 100000000,
+
+        "lat": 123.4,
+        "lng": -1.234
+    }
+], "[SUPERMANS]": [
+    {
+        "geonameId": 3648209,
+        "featureCodeCategory": "ADM1",
+        "defaultName": "Super Region",
+        "featureCode": "ADM1",
+        "codes": {
+            "PCL": "GB",
+            "ADM4": "CC",
+            "ADM3": "BB",
+            "ADM2": "AA",
+            "ADM1": "SSR"
+        },
+        "names": ["Supermans", "SSR", "Super Region"],
+        "population": 500000,
+
+        "lat": 11.1,
+        "lng": -1.11
+    }
+], "[LDN]": [
+    {
+        "geonameId": 2648109,
+        "featureCodeCategory": "SUBADM",
+        "defaultName": "London",
+        "featureCode": "PPL",
+        "codes": {
+            "PCL": "GB",
+            "ADM1": "ENG"
+        },
+        "names": ["LDN", "London"],
+        "population": 500000,
+
+        "lat": 11.1,
+        "lng": -1.11
+    }
+], "[UNITED, STATES]": [
+    {
+        "geonameId": 4648107,
+        "featureCodeCategory": "PCL",
+        "defaultName": "US",
+        "featureCode": "PCL",
+        "codes": {
+            "PCL": "US"
+        },
+        "names": ["United States", "US"],
+        "population": 100000000,
+
+        "lat": 56.7,
+        "lng": -5.678
+    }
+], "[LONDON]": [
+    {
+        "geonameId": 2648109,
+        "featureCodeCategory": "SUBADM",
+        "defaultName": "London",
+        "featureCode": "PPL",
+        "codes": {
+            "PCL": "GB",
+            "ADM1": "ENG"
+        },
+        "names": ["LDN", "London"],
+        "population": 500000,
+
+        "lat": 11.1,
+        "lng": -1.11
+    }
+], "[TINIEST]": [
+    {
+        "geonameId": 7648110,
+        "featureCodeCategory": "SUBADM",
+        "defaultName": "Tiny Town",
+        "featureCode": "PPLA",
+        "codes": {
+            "PCL": "YY"
+        },
+        "names": ["Tiny", "Tiny Town", "Tiniest"],
+        "population": 1000,
+        "lat": 99.9,
+        "lng": -9.999
+    }
+], "[TINY, TOWN]": [
+    {
+        "geonameId": 7648110,
+        "featureCodeCategory": "SUBADM",
+        "defaultName": "Tiny Town",
+        "featureCode": "PPLA",
+        "codes": {
+            "PCL": "YY"
+        },
+        "names": ["Tiny", "Tiny Town", "Tiniest"],
+        "population": 1000,
+        "lat": 99.9,
+        "lng": -9.999
+    }
+], "[YY]": [
+    {
+        "geonameId": 6648110,
+        "featureCodeCategory": "PCL",
+        "defaultName": "YY",
+        "featureCode": "PCL",
+        "codes": {
+            "PCL": "YY"
+        },
+        "names": ["YY", "YY Land"],
+        "population": 10000000,
+        "lat": 99.9,
+        "lng": -9.999
+    }
+]}

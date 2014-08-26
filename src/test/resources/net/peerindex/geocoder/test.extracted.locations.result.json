@@ -1,0 +1,91 @@
+[ {
+    "geonameId" : 3648209,
+    "defaultName" : "Super Region",
+    "featureCode" : "ADM1",
+    "codes" : {
+        "PCL" : "GB",
+        "ADM1" : "SSR",
+        "ADM2" : "AA",
+        "ADM3" : "BB",
+        "ADM4" : "CC"
+    },
+    "population" : 500000,
+    "lat" : 11.1,
+    "lng" : -1.11,
+    "featureCodeCategory" : "ADM1",
+    "names" : [ "Supermans", "SSR", "Super Region" ]
+}, {
+    "geonameId" : 5648109,
+    "defaultName" : "New York",
+    "featureCode" : "PPL",
+    "codes" : {
+        "PCL" : "GB",
+        "ADM1" : "ENG"
+    },
+    "population" : 500000,
+    "lat" : 11.1,
+    "lng" : -1.11,
+    "featureCodeCategory" : "SUBADM",
+    "names" : [ "New York", "NY" ]
+}, {
+    "geonameId" : 6648110,
+    "defaultName" : "YY",
+    "featureCode" : "PCL",
+    "codes" : {
+        "PCL" : "YY"
+    },
+    "population" : 10000000,
+    "lat" : 99.9,
+    "lng" : -9.999,
+    "featureCodeCategory" : "PCL",
+    "names" : [ "YY", "YY Land" ]
+}, {
+    "geonameId" : 2648109,
+    "defaultName" : "London",
+    "featureCode" : "PPL",
+    "codes" : {
+        "PCL" : "GB",
+        "ADM1" : "ENG"
+    },
+    "population" : 500000,
+    "lat" : 11.1,
+    "lng" : -1.11,
+    "featureCodeCategory" : "SUBADM",
+    "names" : [ "LDN", "London" ]
+}, {
+    "geonameId" : 1648107,
+    "defaultName" : "UK",
+    "featureCode" : "PCL",
+    "codes" : {
+        "PCL" : "GB"
+    },
+    "population" : 100000000,
+    "lat" : 123.4,
+    "lng" : -1.234,
+    "featureCodeCategory" : "PCL",
+    "names" : [ "GB", "UK", "United Kingdom" ]
+}, {
+    "geonameId" : 7648110,
+    "defaultName" : "Tiny Town",
+    "featureCode" : "PPLA",
+    "codes" : {
+        "PCL" : "YY"
+    },
+    "population" : 1000,
+    "lat" : 99.9,
+    "lng" : -9.999,
+    "featureCodeCategory" : "SUBADM",
+    "names" : [ "Tiny", "Tiny Town", "Tiniest" ]
+}, {
+    "geonameId" : 4648107,
+    "defaultName" : "US",
+    "featureCode" : "PCL",
+    "codes" : {
+        "PCL" : "US"
+    },
+    "population" : 100000000,
+    "lat" : 56.7,
+    "lng" : -5.678,
+    "featureCodeCategory" : "PCL",
+    "names" : [ "United States", "US" ]
+} ]

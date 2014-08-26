@@ -1,0 +1,7 @@
+1648107	UK	UK	UK,United Kingdom	123.4	-1.234	P	PCL	GB						100000000		0	Europe/London	2012-02-01
+2648109	London	London	London,LDN	11.1	-1.11	L	PPL	GB		ENG				500000		0	Europe/London	1994-01-13
+3648209	Super Region	Super Region	Super Region,Supermans	11.1	-1.11	L	ADM1	GB		SSR	AA	BB	CC	500000		0	Europe/London	1994-01-13
+4648107	US	US	US,United States	56.7	-5.678	P	PCL	US						100000000		0	America/Somewhere	2012-02-01
+5648109	New York	New York	New York,NY	11.1	-1.11	L	PPL	GB		ENG				500000		0	Europe/London	1994-01-13
+6648110	YY	YY Land	YY,YY Land	99.9	-9.999	P	PCL	YY						10000000		0	YY Land/Somewhere	2012-02-01
+7648110	Tiny Town	Tiny Town	Tiny,Tiniest	99.9	-9.999	P	PPLA	YY						1000		0	YY Land/Somewhere	2012-02-01
