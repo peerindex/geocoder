@@ -100,4 +100,9 @@ Notes
    - Throughput: 300K calls / sec
  - Accuracy
    - Both precision and recall were > 0.95 but the test was done with a VERY limited dataset
-   - It will heavily depend on your data
+   - It will heavily depend on your data  
+
+####Acknowledgment  
+This library uses Gazetteer by GeoNames (http://www.geonames.org/) licensed under a [Creative Commons Attribution 3.0 License][3]
+
+[3]: http://creativecommons.org/licenses/by/3.0/
