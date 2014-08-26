@@ -54,6 +54,7 @@ Notes
  - Primarily meant for location entered as free text. It doesn't work well with longer texts (like articles).
  - Only works to town level (no support for street address)
  - Language agnostic (but your mileage may vary for non-English texts)
+ - Best used for things on the web, like Twitter (it uses population data adjusted for online activity)
 
 ####Output
  - Here is an example output with comment
@@ -98,5 +99,5 @@ Notes
    - Avg. response time: 0.01 ms
    - Throughput: 300K calls / sec
  - Accuracy
-   - Both precision and recall were > 0.95 but with a VERY limited dataset
-   - Will heavily depend on your data!
+   - Both precision and recall were > 0.95 but the test was done with a VERY limited dataset
+   - It will heavily depend on your data
