@@ -54,7 +54,7 @@ Notes
 ----
 ####Input
  - Primarily meant for location entered as free text. It doesn't work well with longer texts (like articles).
- - Only works to town level (no support for street address)
+ - Only works to town level (no support for street address) with at least 1K inhabitants
  - Language agnostic (but your mileage may vary for non-English texts)
  - Best used for things on the web, like Twitter (it uses population data adjusted for online activity)
 
