@@ -108,6 +108,30 @@ Notes
    - Both precision and recall were > 0.95 but the test was done with a VERY limited dataset
    - It will heavily depend on your data  
 
+####Configurations
+ - The bundled dictionary uses the following population threshold (`population.threshold.txt`) to cutdown memory requirement & increase accuracy. Locations that doesn't meet this threshold are not indexed. You can change these parameters, but note that you have to re-generate `compressed.gazetteer.txt` using `CompressGazetteer`
+```
+PCL,500000
+ADM1,30000
+ADM2,1000
+ADM3,1000
+ADM4,1000
+SUBADM,1000
+```
+ - It also uses the config file `online.activity.share.txt` to adjust population data. The numbers stands for share of online activity. Therefore, you want the sum of all numbers here to be <= 1. This config can be changed **WITHOUT** re-generating `compressed.gazetteer.txt`
+```
+US,0.5088     <- 50.88% of online activity
+BR,0.0879
+GB,0.0720
+CA,0.0435
+DE,0.0249
+ID,0.0241
+AU,0.0239
+NL,0.0239
+IN,0.0239
+MX,0.0239
+```
+
 ####Acknowledgment  
 This library uses Gazetteer by GeoNames (http://www.geonames.org/) licensed under a [Creative Commons Attribution 3.0 License][3]
 
