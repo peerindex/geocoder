@@ -59,7 +59,8 @@ Notes
  - Best used for things on the web, like Twitter (it uses population data adjusted for online activity)
 
 ####Notes
-**DO NOT** create more than one `Geocoder` object. It's very expensive to create and is thread-safe.
+ - **DO NOT** create more than one `Geocoder` object. It's very expensive to create and is thread-safe.
+ - **DO NOT** modify the `Location` object. It's an mutable object to play nice with serialization libraries, and the `Geocoder` object doesn't return a defensive copy for performance reasons (maybe I should, really).
 
 ####Output
  - Here is an example output with comment
