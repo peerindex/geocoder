@@ -7,6 +7,8 @@ How to use
 ----
 Code:
 ```java
+// Geocoder object is expensive to create & thread-safe.
+// Share a single instance per application!
 Geocoder geocoder = new Geocoder();
 Location londonOH = geocoder.resolve("Rancho Cordova, US");
 Location moscow   = geocoder.resolve("Москва является удивительным");
