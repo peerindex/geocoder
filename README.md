@@ -1,7 +1,7 @@
 geocoder
 ==============
 
-A quick and dirty library that extracts location from short free text. NO dependency to any geocoding services. 100% open source including Gazetteer data. No network call or disk IO. All necessary data is contained within the jar and will be stored in-memory (ca. 600-700MB). 
+A quick and dirty library that extracts location from short free text. NO dependency to any geocoding services. 100% open source including Gazetteer data. No network call or disk IO. All necessary data is contained within the jar and will be stored in-memory (the jar is around 8MB, the code uses ca. 600-700MB of memory at runtime). 
 
 How to use
 ----
