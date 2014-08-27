@@ -58,6 +58,9 @@ Notes
  - Language agnostic (but your mileage may vary for non-English texts)
  - Best used for things on the web, like Twitter (it uses population data adjusted for online activity)
 
+####Notes
+**DO NOT** create more than one `Geocoder` object. It's very expensive to create and is thread-safe.
+
 ####Output
  - Here is an example output with comment
 ```json
